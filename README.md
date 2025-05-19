@@ -1,4 +1,7 @@
-# An Arduino based led clock that reads and manipulates a real-time clock (RTC) DS3231, and also three buttons: add hour, add minute or switch 12/24 hour mode.
+# An Arduino based led clock that reads and manipulates a real-time clock (RTC) DS3231, and also three buttons:
+   * add hour
+   * add minute
+   * switch 12/24 hour mode.
 
 ### This arduino project performs the following:
 
